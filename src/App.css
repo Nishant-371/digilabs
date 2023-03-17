@@ -1,0 +1,92 @@
+
+.App {
+  margin-top: 44px;
+  margin-left: 52px;
+  min-height: 50vh;
+  /* align-items: center; */
+  /* justify-content: center; */
+  display: flex;
+}
+
+.icon{
+  margin-top:0px;
+}
+
+.form{
+  margin-top: 44px;
+  margin-left: 80px;
+    /* margin-right: 88px */
+    /* display: none; */
+
+}
+
+.Member{
+  position: absolute;
+  width: 300px;
+  /* margin-bottom: 500px; */
+  height: 16px;
+  left: 49px;
+  top: 704px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.icon3{
+  /* margin-left: 50%; */
+  position: relative;
+  left: -50%;
+}
+
+.create{
+  color: #0858F7;
+}
+
+.main{
+  font-size:16px;
+}
+
+  @media (width <=376px) {
+    .App{
+      background-color: #18181B;
+    }
+    body{
+      background-color: #18181B;
+      width: 100%;
+
+    }
+    .form{
+      width: 100%;
+    }
+    .Member{
+      width: 100%;
+    }
+      .Member{
+        margin-top: 24px;
+        position: absolute;
+        width: 187px;
+        height: 16px;
+        left: 164px;
+        top: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 16px;
+        color: #18181B;
+      }
+      .icon3{
+        display: none;
+      }
+      .i1{
+        display: none;
+      }
+      .i2{
+        display: none;
+      }
+      .i3{
+        display: none;
+      }
+  }

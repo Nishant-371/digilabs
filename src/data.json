@@ -1,0 +1,26 @@
+[
+    {
+      "Name": "Aarav",
+      "Roll_No": "1962001",
+      "Address": "10/1, Main Street, Gandhi Nagar, Bangalore - 560008, Karnataka",
+      "Institute": "LMN Institute of Technology",
+      "Course": "Bachelors of Technology",
+      "Email": "aarav342@gmail.com"
+    },
+    {
+      "Name": "Dhruv",
+      "Roll_No": "1473502",
+      "Address": "Door No. 12-2-417/A, Bank Colony Road, Ruknuddin Bagh, Hyderabad - 500032, Telangana",
+      "Institute": "DEF Management Institute",
+      "Course": "Masters of Business Administration",
+      "Email": "dhruv124@gmail.com"
+    },
+    {
+      "Name": "Sahil",
+      "Roll_No": "1762503",
+      "Address": "H.No. 8-2-123/456, Sri Nagar Colony, Road No. 1, Banjara Hills, Hyderabad - 500034, Telangana",
+      "Institute": "MNO Medical College",
+      "Course": "Bachelor of Unani Medicine and Surgery",
+      "Email": "sahil879@gmail.com"
+    }    
+  ]

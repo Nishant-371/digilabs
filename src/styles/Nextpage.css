@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+.back_btn
+{
+    text-decoration: none;
+    color: #0858F7;
+    font-family: 'Inter';
+}
+
+
+.head{
+    width: 344px;
+    height: 64px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    margin-top: 170px;
+    line-height: 32px;
+    margin-left: 156px;
+    margin-bottom: 16px;
+    letter-spacing: -0.01em;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #18181B;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.form{
+    margin-left: 145px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.inside_text{
+    color: #0858F7;
+    
+}
+
+.box{
+    text-align: center;
+    margin-bottom: 40px;
+    caret-color: #0858F7;
+    box-sizing: border-box;
+    margin-left: 11.2px;
+    width: 48px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px solid #0858F7;
+    box-shadow: 0px 0px 0px 4px rgba(0, 85, 255, 0.2);
+    border-radius: 12px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.text{
+    width: 344px;
+    height: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 510;
+    margin-left: 156px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7A7A85;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.back{
+    width: 400px;
+    height: 24px;
+    margin-left: -20px;   
+    /* padding-left: 82; */
+    border: none;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #0858F7;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.resend{
+    width: 400px;
+    height: 24px;
+    margin-left: -120px;   
+    /* padding-left: 82; */
+    border: none;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #0858F7;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.icon7
+{
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    /* display: flex; */
+}

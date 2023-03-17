@@ -1,0 +1,16 @@
+.i1{
+    position: absolute;
+    /* z-index: 1; */
+   
+}
+.i2{
+    position: absolute; 
+    left: 7%;
+    z-index: -1;
+    
+}
+.i3{
+    position: relative;
+    left:14%;
+    z-index: -11;
+}

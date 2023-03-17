@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+.heading{
+    margin-top: 10px;
+    margin-right: 780px;
+    margin-bottom: 40px;
+    width: 344px;
+    height: 64px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: -0.01em;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #18181B;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.forgot{
+    width: 400px;
+    height: 24px;
+    margin-left: -20px;   
+    /* padding-left: 82; */
+    border: none;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #0858F7;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.drop_btn{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    margin-bottom: 32px;
+    width: 344px;
+    height: 56px;
+    background: rgba(24, 24, 27, 0.05);
+    border-radius: 12px;
+    justify-content: space-between;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+}
+
+.PASSWORD{
+    /* width: 300px; */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 40px;
+    padding: 0px;
+    width: 344px;
+    height: 56px;
+    background: rgba(24, 24, 27, 0.05);
+    border-radius: 12px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+}
+
+.link-btn{
+    width: 264px;
+    height: 21px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    color: #5300A7; 
+    margin-bottom: 4px;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+#email::placeholder{
+    width: 71px;
+    height: 24px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #18181B;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+#password::placeholder{
+    width: 100px;
+    height: 24px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #18181B;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.SUBMIT{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 20px;
+    gap: 8px;
+    margin-bottom: 24px;
+    width: 344px;
+    height: 56px;
+    background: #0858F7;
+    border-radius: 12px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    color: #ffffff;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    transition: 0.5s;
+}
+
+.page_link{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.SUBMIT:hover
+{
+    padding-left: 0px;
+    padding-right: 44px;
+}
+
+
+
+.drop_btn:hover{
+    border:2px solid #0858F7;
+}
+
+.PASSWORD:hover{
+    border:2px solid #0858F7;
+}
+
+.for_select:hover{
+    background-color: #38599b;
+    opacity: 0.9;
+}
+
+.EMAIL{
+    padding: 0px;
+    margin-bottom: 32px;
+    width: 144px;
+    height: 56px;
+    background: rgba(21, 21, 23, 0.004);
+    border-radius: 12px;
+    border: hidden;
+
+}
+
+.for_select{
+   
+    height: 46px;
+    margin-top: 5px;
+    margin-right: 7px;
+    width: 160px;
+    border: none;
+    border-radius: 12px;
+    padding: 13px;
+}
+

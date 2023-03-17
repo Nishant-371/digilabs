@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+.icon8{
+    position: absolute;
+    margin-left: 628px;
+    margin-top: 250px;
+}
+
+.Success{
+    position: absolute;
+    top: 50%;
+    margin-left: 605px;
+    margin-bottom: 20px;
+    width: 72px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #0858F7;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
